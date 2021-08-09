@@ -1,5 +1,5 @@
 package io.javabrain.moviecatalogservice.models;
-
+//Data Format for objects to be returned on the getCatalog/{userID} endpoint
 public class CatalogItem {
 
     private String name;
