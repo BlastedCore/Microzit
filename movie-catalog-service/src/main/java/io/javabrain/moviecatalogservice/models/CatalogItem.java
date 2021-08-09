@@ -1,4 +1,4 @@
-package models;
+package io.javabrain.moviecatalogservice.models;
 
 public class CatalogItem {
 

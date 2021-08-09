@@ -1,6 +1,6 @@
-package resources;
+package io.javabrain.moviecatalogservice.resources;
 
-import models.CatalogItem;
+import io.javabrain.moviecatalogservice.models.CatalogItem;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
